@@ -24,7 +24,7 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 
 ## My Skills 💻
 
-- **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), jQuery  
+- **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), TypeScript , jQuery  
 - **WordPress**: Theme & plugin development, speed optimization, database management  
 - **Tools & Technologies**: Git, Webpack, Figma, Adobe XD, Adobe Photoshop 2024  
 - **SEO & Optimization**: Website optimization for search engines and faster load times  
